@@ -1,0 +1,53 @@
+body{
+    background-color:lightyellow;
+    
+}
+
+ul{
+    list-style: none;
+
+}
+
+#html_button{
+    color:whitesmoke;
+    background-color: blueviolet;
+    border-radius: 20px;
+    width:200px;
+    height:35px;
+    font-size: 25px;
+    cursor:pointer;
+}
+
+#css_button{
+    color:black;
+    background-color: orange;
+    border-radius: 20px;
+    width:200px;
+    height:35px;
+    font-size: 25px;
+    cursor:pointer;
+
+}
+
+#js_button{
+    color:black;
+    background-color: green;
+    border-radius: 20px;
+    width:200px;
+    height:35px;
+    font-size: 25px;
+    cursor:pointer;
+    
+}
+
+
+#back_button{
+    color:white;
+    background-color: darkviolet;
+    border-radius: 20px;
+    width:200px;
+    height:35px;
+    font-size: 25px;
+    cursor:pointer;
+    
+}
